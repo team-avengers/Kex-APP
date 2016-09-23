@@ -4,9 +4,9 @@ ARENASPORT2,http://93.87.85.70/PLTV/88888888/224/3221226662/04.m3u8
 ARENASPORT3,http://93.87.85.70/PLTV/88888888/224/3221226664/04.m3u8
 ARENASPORT4,http://93.87.85.70/PLTV/88888888/224/3221226661/04.m3u8
 ASTROSP1,http://119.81.36.108:1935/indopeer/hdmi27/playlist.m3u8#http://89.163.148.31:8000/live/basil/basil/8547.m3u8
-ASTROSP2,http://119.81.36.108:1935/indopeer/hdmi28/playlist.m3u8
-ASTROSP3,http://119.81.36.108:1935/indopeer/hdmi29/playlist.m3u8
-ASTROSP4,http://119.81.36.108:1935/indopeer/hdmi30/playlist.m3u8
+ASTROSP2,http://119.81.36.108:1935/indopeer/hdmi28/playlist.m3u8#http://89.163.148.31:8000/live/basil/basil/8548.m3u8
+ASTROSP3,http://119.81.36.108:1935/indopeer/hdmi29/playlist.m3u8#http://89.163.148.31:8000/live/basil/basil/8549.m3u8
+ASTROSP4,http://119.81.36.108:1935/indopeer/hdmi30/playlist.m3u8#http://89.163.148.31:8000/live/basil/basil/8550.m3u8
 CCTV5,http://218.203.106.12:5580/ysten-businessmobile/live/cctv-5/yst.m3u8
 CCTV5+,http://218.203.106.12:5580/ysten-businessmobile/live/hdcctv05plus/yst.m3u8
 BEIN10,http://5.39.93.203:1800/live/test/star7arab/15.m3u8
