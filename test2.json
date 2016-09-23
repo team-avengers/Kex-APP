@@ -1,0 +1,33 @@
+-SPORTS-,http://ignoreme.com
+ARENASPORT1,http://93.87.85.70/PLTV/88888888/224/3221226643/04.m3u8
+ARENASPORT2,http://93.87.85.70/PLTV/88888888/224/3221226662/04.m3u8
+ARENASPORT3,http://93.87.85.70/PLTV/88888888/224/3221226664/04.m3u8
+ARENASPORT4,http://93.87.85.70/PLTV/88888888/224/3221226661/04.m3u8
+ASTROSP1,http://119.81.36.108:1935/indopeer/hdmi27/playlist.m3u8#http://89.163.148.31:8000/live/basil/basil/8547.m3u8
+ASTROSP2,http://119.81.36.108:1935/indopeer/hdmi28/playlist.m3u8#http://89.163.148.31:8000/live/basil/basil/8548.m3u8
+ASTROSP3,http://119.81.36.108:1935/indopeer/hdmi29/playlist.m3u8#http://89.163.148.31:8000/live/basil/basil/8549.m3u8
+ASTROSP4,http://119.81.36.108:1935/indopeer/hdmi30/playlist.m3u8#http://89.163.148.31:8000/live/basil/basil/8550.m3u8
+CCTV5,http://218.203.106.12:5580/ysten-businessmobile/live/cctv-5/yst.m3u8
+CCTV5+,http://218.203.106.12:5580/ysten-businessmobile/live/hdcctv05plus/yst.m3u8
+BEIN10,http://5.39.93.203:1800/live/test/star7arab/15.m3u8
+BEIN11,http://5.39.93.203:1800/live/test/star7arab/16.m3u8
+BEIN12,http://5.39.93.203:1800/live/test/star7arab/17.m3u8
+BT SPORT1,http://5.39.93.203:1800/live/test/star7arab/111.m3u8
+BT SPORT2,http://5.39.93.203:1800/live/test/star7arab/112.m3u8
+SKY SPORT1,http://5.39.93.203:1800/live/test/star7arab/107.m3u8
+SKY SPORT3,http://5.39.93.203:1800/live/test/star7arab/108.m3u8
+SKY SPORT4,http://5.39.93.203:1800/live/test/star7arab/109.m3u8
+FOX SPORT1 US,http://46.166.162.35:9090/load/b0922f3fa8aa/45.m3u8
+FOX SPORT2 US,http://46.166.162.35:9090/load/b0922f3fa8aa/45.m3u8
+NBCSN,http://46.166.162.35:9090/load/b0922f3fa8aa/42.m3u8
+FOX SPORTS TH1,http://tea3xe87bf2qr8g6.cdn.ipplaybox.tv:443/requiref/foxhd2/playlist.m3u8
+FOX SPORTS TH2,http://27.254.52.151:1935/smile_live/fox2.stream/playlist.m3u8
+FOX SPORTS TH3,http://27.254.52.151:1935/smile_live/fox3.stream/playlist.m3u8
+TRUE SPORT HD,http://27.254.52.151:1935/smile_live/thd1.stream/playlist.m3u8
+TRUE SPORT HD2,http://tea3xe87bf2qr8g6.cdn.ipplaybox.tv:443/requiref/thd22/playlist.m3u8
+TRUE SPORTS HD3,http://tea3xe87bf2qr8g6.cdn.ipplaybox.tv:443/requiref/tsporthd3/playlist.m3u8
+-ASIAN-,http://ignoreme.com
+AWANI,http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
+GOSHOP,http://playback01.aotg-video.astro.com.my/AOTGHLS/master_GOSHOP.m3u8
+-MOVIES-,http://ignoreme.com
+TEST,http://dl.saberfun.org/mersad/movie/95/06/AmeriGeddon.2016.720p.BluRay.x264_MeliMedia.INFO.mkv
