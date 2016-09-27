@@ -24,5 +24,5 @@
 {"num":"60021","itemid":"uid1","name":"NBCSN","urllist":"http://46.166.162.35:9090/load/b0922f3fa8aa/42.m3u8"},{"num":"60022","itemid":"uid1","name":"K+PM","urllist":"http://89.163.148.31:8000/live/basil/basil/8544.m3u8"},
 {"num":"60023","itemid":"uid1","name":"K+PC","urllist":"http://89.163.148.31:8000/live/basil/basil/8545.m3u8"},{"num":"60024","itemid":"uid1","name":"K+1","urllist":"http://89.163.148.31:8000/live/basil/basil/8546.m3u8"},
 {"num":"60025","itemid":"uid1","name":"BEIN1","urllist":"http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/2.m3u8"},{"num":"60026","itemid":"uid1","name":"BEIN2","urllist":"http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/1.m3u8"},
-{"num":"60027","itemid":"uid1","name":"ELEVENSPORTS","urllist":"http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/1.m3u8"},
+{"num":"60027","itemid":"uid1","name":"ELEVENSPORTS","urllist":"http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/1.m3u8"},{"num":"60028","itemid":"uid1","name":"NBCSPORTS","urllist":"http://198.144.148.113:9850/live/FNfNf3M3Ht/bAouB5V1Uy/159.m3u8"},
 {"num":"001","itemid":"uidall","name":"TEST","urllist":"http://dl.movieo.ir/dlha/files/Operation.Chromite.2016.HC.720p.WEBrip.mkv"}],"type":[{"id":"uidall","name":"MOVIES"},{"id":"uid0","name":"ASIAN"},{"id":"uid1","name":"SPORTS"}]}
